@@ -1,2 +1,2 @@
-# scsen
-smart contract search engine node
+# datdot-tcir
+p2p search (typed crawl, index rank)
